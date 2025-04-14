@@ -39,10 +39,3 @@
 ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-05122A?style=flat&logo=azure-pipelines&logoColor=2560E0)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Ahmed-wa7eed&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-wa7eed&style=for-the-badge">
-</a>
